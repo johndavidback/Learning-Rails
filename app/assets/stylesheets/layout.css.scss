@@ -26,6 +26,13 @@ section h1 {
 	font-size: 200%;
 }
 
+ul.users {
+	margin-top: 1em;
+	li {
+		list-style: none;
+	}
+}
+
 /* Links stuffs */
 $visited-link-color: #069;
 a {
